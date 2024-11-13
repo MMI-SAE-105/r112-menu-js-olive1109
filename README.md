@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Ahuir 
+- prénom : Noëlie
+- URL Netlify : https://precious-eclair-c3f510.netlify.app
 
 # Travail
 
